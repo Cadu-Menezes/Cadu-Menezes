@@ -16,4 +16,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=96969&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1aa5b8&height=120&section=footer"/>
