@@ -16,7 +16,7 @@
 $ Name        Carlos Eduardo Menezes
 $ Uptime      24 years, 20 days, 30 hrs, 23 mins
 $ OS          Gentoo Linux
-$ Editor      Neovim
+$ Editor      Steam OS
 $ Passions    programação, hacking, corrida, musculação
 ```
 
