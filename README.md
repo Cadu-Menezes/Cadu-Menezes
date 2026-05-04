@@ -6,4 +6,4 @@ $ Passions    programação, corrida, musculação
 ```
 
 ### Principais skills:
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,react,vue&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,vue,kotlin&theme=light)](https://skillicons.dev)
