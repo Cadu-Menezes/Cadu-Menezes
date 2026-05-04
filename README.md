@@ -2,7 +2,7 @@
 ```bash
 $ Name        Carlos Eduardo Menezes
 $ Uptime      24 years, 20 days, 30 hrs, 23 mins
-$ Passions    programação, corrida
+$ Passions    programação, corrida, games
 ```
 
 ### Principais skills:
